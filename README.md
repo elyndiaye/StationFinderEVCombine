@@ -35,7 +35,6 @@ A mobile application that allows users to find electric vehicle charging station
 - Swift UI
 - MVVM / SOLID
 - User Defaults
-- Async/Await
 - MapKit
 - Dependency Injection
 - Unit tests
